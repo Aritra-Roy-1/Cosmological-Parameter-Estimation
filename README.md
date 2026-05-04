@@ -52,10 +52,10 @@ pip install numpy pandas matplotlib scipy
 
 | Quantity | Value |
 |---|---|
-| Cluster angular diameter | ~7.18° |
-| Cluster distance | ~13.5 Mpc |
-| Cluster physical diameter | ~1.69 Mpc |
-| Velocity dispersion σᵥ | ~437 km/s |
+| Cluster angular diameter | ~7.40° |
+| Cluster distance | ~14.54Mpc |
+| Cluster physical diameter | ~1.88 Mpc |
+| Velocity dispersion σᵥ | ~516.31 km/s |
 | P–L slope α | −1.826 |
 | P–L intercept β | 0.257 |
 | Hubble constant H₀ | 46.47 ± 35.90 km/s/Mpc |
