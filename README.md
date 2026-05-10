@@ -30,21 +30,6 @@ This notebook reconstructs a mini cosmic distance ladder using simulated observa
 └── README.md
 ```
 
----
-
-## Requirements
-
-```
-numpy
-pandas
-matplotlib
-scipy
-```
-
-Install with:
-```bash
-pip install numpy pandas matplotlib scipy
-```
 
 ---
 
